@@ -27,3 +27,9 @@ pip install -r requirements.txt
 
 ```
 
+### we take reference from
+
+<!-- add link of refernecs -->
+[DATASET]: https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
+[Early Prediction of student’s Performance in Higher Education: A Case Study]: https://link.springer.com/chapter/10.1007/978-3-030-72657-7_16
+[Predicting student dropouts with machine learning: An empirical study in Finnish higher education]: https://www.sciencedirect.com/science/article/pii/S0160791X24000228
