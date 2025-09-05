@@ -24,10 +24,13 @@
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+select python interpreter as venv/bin/python (in VS code)
 
 ```
 
-### We take reference from
+
+
+### Dataset and References
 
 - [DATASET (UCI Repository)](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success)
 - [Early Prediction of Student’s Performance in Higher Education: A Case Study](https://link.springer.com/chapter/10.1007/978-3-030-72657-7_16)
