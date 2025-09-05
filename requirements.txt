@@ -2,6 +2,7 @@ pandas
 numpy
 sklearn
 matplotlib
-seaborn
+seaborn==0.13.2
 imblearn
 xgboost
+ipykernel==6.30.1
